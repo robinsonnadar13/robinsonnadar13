@@ -1,7 +1,4 @@
-### <p style = "align:center">
-    Hi 👋, I'm Robinson Nadar
-    </p>
-<hr>
+### 
 <!--
 **robinsonnadar13/robinsonnadar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -14,6 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Robinson Nadar</h1>
+<hr>
 
 - 🌱 I’m currently learning MERN
 - 📫 Contact me at robinsonnadar13@gmail.com
