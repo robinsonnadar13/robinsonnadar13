@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Robinson Nadar</h1>
-<hr>
 
 - 🌱 I’m currently learning MERN
 - 📫 Contact me at robinsonnadar13@gmail.com
