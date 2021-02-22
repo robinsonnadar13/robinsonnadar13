@@ -2,9 +2,7 @@
 <hr>
 <!--
 **robinsonnadar13/robinsonnadar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 Some technologies I enjoy working with include ReactJS and NodeJS.
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on ...
