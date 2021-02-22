@@ -1,6 +1,5 @@
 ### Hi 👋, I'm Robinson Nadar
 <hr>
-![Image of me](https://github.com/robinsonnadar13/robinsonnadar13/blob/master/me.gif?raw=true)
 <!--
 **robinsonnadar13/robinsonnadar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN
 - 📫 Contact me at robinsonnadar13@gmail.com
 
+![Image of me](https://github.com/robinsonnadar13/robinsonnadar13/blob/master/me.gif?raw=true)
 ![Robinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinsonnadar13&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinsonnadar13&layout=compact)](https://github.com/robinsonnadar13/github-readme-stats)
 
