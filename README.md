@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Robinson Nadar
 <hr>
-
+![Image of me](https://github.com/robinsonnadar13/robinsonnadar13/blob/master/me.gif?raw=true)
 <!--
 **robinsonnadar13/robinsonnadar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
