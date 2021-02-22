@@ -1,4 +1,4 @@
-### <p align="center">
+### <p style = "align:center">
     Hi 👋, I'm Robinson Nadar
     </p>
 <hr>
