@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Robinson Nadar</h1>
 
-- 🌱 I’m currently learning MERN
-- 🤔 I’m interested in Data Science and Blockchain technology
-- 📫 Contact me at robinsonnadar13@gmail.com
+- 👀 I’m currently learning MERN
+- 😍 I’m interested in Data Science and Blockchain technology
+- 😃 Contact me at robinsonnadar13@gmail.com
 
 ![Robinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinsonnadar13&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinsonnadar13&layout=compact)](https://github.com/robinsonnadar13/github-readme-stats)
