@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Robinson Nadar</h1>
+<h1>Hi 👋, I'm Robinson Nadar</h1>
 <br />
 - 👀 I’m currently learning MERN
 - 😍 I’m interested in Data Science and Blockchain technology
