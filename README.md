@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm Robinson Nadar</h1>
 <br />
 
-- 👀 I’m currently learning MERN
+- 👀 I’m currently learning Machine Learning
 - 😍 I’m interested in Data Science and Blockchain technology
+- 💬 Ask me anything about MERN
 - 😃 Contact me at robinsonnadar13@gmail.com
 
 ### Languages and Tools:
