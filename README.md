@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi 👋, I'm Robinson Nadar</h1>
+<h1 style="text-align: center;">Hi 👋, I'm Robinson Nadar</h1>
 <br />
 
 - 👀 I’m currently learning MERN
