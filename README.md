@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😍 I’m interested in Data Science and Blockchain technology
 - 💬 Ask me anything about MERN
 - 😃 Contact me at robinsonnadar13@gmail.com
-- ⚡ Fun fact: Almost anything powered by electricity requires code.....
+- ⚡ Fun fact: Almost anything powered by electricity requires code.
 
 ### Languages and Tools:
 
