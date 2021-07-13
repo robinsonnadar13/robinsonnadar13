@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😍 I’m interested in Data Science and Blockchain technology
 - 💬 Ask me anything about MERN
 - 😃 Contact me at robinsonnadar13@gmail.com
-- ⚡ Fun fact: Studying a course that teaches you what course do you really want to study!!!
+- ⚡ Fun fact: I am currently studying a course that teaches you what course do you really want to study!!!
 
 ### Languages and Tools:
 
