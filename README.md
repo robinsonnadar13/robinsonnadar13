@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br />
 
 - 👀 I’m currently learning Natural Language Processing
-- 😍 I’m interested in Data Science and Blockchain technology
+- 😍 I’m interested in Data Science
 - 💬 Ask me anything about MERN
 - 😃 Contact me at robinsonnadar13@gmail.com
 - ⚡ Fun fact: I am currently studying a course that teaches you what course do you really want to study!!!
